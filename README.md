@@ -1,6 +1,6 @@
 # docker-go-http-tunnel
 
-A docker image for running [mmatczuk/go-http-tunnel](https://github.com/mmatczuk/go-http-tunnel). This will always build the master repo.
+Docker image for running [mmatczuk/go-http-tunnel](https://github.com/mmatczuk/go-http-tunnel). This will always build the master repo.
 
 This repository is originally based on [osiloke/go-http-tunnel](https://github.com/osiloke/go-http-tunnel/tree/master/docker),
 but provides more flexibility and contains both server and client binaries.
@@ -53,7 +53,7 @@ Clone this repository and run:
 docker build -t go-http-tunnel .
 ```
 
-# License
+## License
 
 MIT License
 
