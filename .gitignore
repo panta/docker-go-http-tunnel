@@ -1,0 +1,20 @@
+*~
+*.a
+
+*.sublime‐project
+*.sublime‐workspace
+
+/.idea/
+
+# docker / compose environment files
+.env
+.env.*
+
+# certs / keys
+*.pem
+*.crt
+*.key
+*.csr
+
+# local config overrides
+*.local.yaml
